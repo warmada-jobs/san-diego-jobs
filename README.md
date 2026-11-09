@@ -1,10 +1,10 @@
 # San Diego Jobs
 
-Open roles in San Diego: 29 roles at 16 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-08.
+Open roles in San Diego: 28 roles at 16 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-09.
 
-All 29 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
+All 28 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
 
-**By role:** Software Engineering (2) · Data (1) · Product Management (1) · Marketing (1) · Sales (2) · Finance (2) · HR & Recruiting (3) · Legal & Compliance (3) · Other (14)
+**By role:** Software Engineering (2) · Data (1) · Product Management (1) · Marketing (1) · Sales (2) · Finance (2) · HR & Recruiting (3) · Legal & Compliance (3) · Other (13)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names San Diego. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -65,7 +65,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [iambic.ai](https://warmada.com/companies/iambic-ai?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Director, IP Counsel | San Diego HQ | Nov 2 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/a3b2fcd5-f927-47eb-8808-2879310d1273) · [Find the hiring manager](https://warmada.com/job/iambic-ai-director-ip-counsel-32f0dba7-fb77-4c73-aea0-3ca30ad454fc?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [iambic.ai](https://warmada.com/companies/iambic-ai?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Corporate Counsel, Commercial | San Diego HQ | Nov 2 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/537633e4-4b04-4376-b91a-6cdd020b4735) · [Find the hiring manager](https://warmada.com/job/iambic-ai-corporate-counsel-commercial-7ec182d4-38fb-4b28-99c5-2d1be0b457ef?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
-## Other (14)
+## Other (13)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -82,4 +82,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Field Service Representative (PT) / Market - SS - CA - San Diego | San Diego, CA | Oct 29 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/San-Diego-CA/Field-Service-Representative--PT----Market---SS---CA---San-Diego_REQ_115188) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-field-service-representative-pt-market-ss-ca-san-diego-30f73486-5a67-483e-966d-02b781b78c15?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [AEVEX](https://warmada.com/companies/aevex?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Marine Technician Jr. | San Diego, California, United States | Oct 27 | [Apply](https://job-boards.greenhouse.io/aevexaerospace/jobs/5460566008) · [Find the hiring manager](https://warmada.com/job/aevex-marine-technician-jr-28ddd0f9-639d-4199-baa9-871c7f86e4e3?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Mejuri](https://warmada.com/companies/mejuri?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Floor Lead (Retail) (Part-time) | Westfield UTC, San Diego | Oct 26 | [Apply](https://job-boards.greenhouse.io/mejuri/jobs/4724956006) · [Find the hiring manager](https://warmada.com/job/mejuri-floor-lead-retail-part-time-817c6245-255c-4962-a38b-0b9668dc6a7e?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
-| [Olympus Property](https://warmada.com/companies/olympus-property?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Leasing Consultant (1+ Years Experience Required) - Olympus Corsair | San Diego, CA | Oct 26 | [Apply](https://job-boards.greenhouse.io/olympusproperty/jobs/8044436003) · [Find the hiring manager](https://warmada.com/job/olympus-property-leasing-consultant-1-years-experience-required-olympus-corsair-0af318ab-4dbf-4410-9004-7ac04943896d?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
