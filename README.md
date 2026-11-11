@@ -1,10 +1,10 @@
 # San Diego Jobs
 
-Open roles in San Diego: 26 roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-10.
+Open roles in San Diego: 25 roles at 14 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-11.
 
-All 26 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
+All 25 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
 
-**By role:** Software Engineering (2) · Data (1) · Marketing (1) · Sales (2) · Finance (3) · HR & Recruiting (3) · Legal & Compliance (3) · Other (11)
+**By role:** Software Engineering (2) · Data (1) · Marketing (1) · Sales (1) · Finance (3) · HR & Recruiting (3) · Legal & Compliance (3) · Other (11)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names San Diego. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -29,12 +29,11 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Aya Healthcare](https://warmada.com/companies/aya-healthcare?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Solutions Marketing Manager | San Diego, CA | Nov 5 | [Apply](https://www.ayahealthcare.com/corporate-careers/jobs/8357625?gh_jid=8357625) · [Find the hiring manager](https://warmada.com/job/aya-healthcare-solutions-marketing-manager-fca7b265-d8be-477c-984e-7bcb8fd37d82?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
-## Sales (2)
+## Sales (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Google TV Sales Specialist - Temporary | San Diego, CA | Oct 30 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/San-Diego-CA/Sales-Specialist_REQ_115808) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-google-tv-sales-specialist-temporary-4053b1e7-8a4d-4cd8-b3e7-89934a7467f8?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
-| accessdmc.com | Strategic Partnerships Associate | San Diego | Oct 27 | [Apply](https://jobs.ashbyhq.com/access/670d8961-948f-44e7-80fc-eabf75aa4e55) · [Find the hiring manager](https://warmada.com/job/accessdmc-com-strategic-partnerships-associate-15070e9e-a68d-4c7c-9536-1501634b8da9?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
 ## Finance (3)
 
