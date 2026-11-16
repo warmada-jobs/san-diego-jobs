@@ -1,10 +1,10 @@
 # San Diego Jobs
 
-Open roles in San Diego: 25 roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-15.
+Open roles in San Diego: 26 roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-16.
 
-All 25 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
+All 26 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
 
-**By role:** Software Engineering (2) · Data (1) · Marketing (1) · Sales (4) · Finance (3) · HR & Recruiting (1) · Legal & Compliance (3) · Other (10)
+**By role:** Software Engineering (2) · Hardware Engineering (1) · Data (1) · Marketing (1) · Sales (4) · Finance (3) · HR & Recruiting (1) · Legal & Compliance (3) · Other (10)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names San Diego. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -16,6 +16,12 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sr. Forward Deployed Engineer - Public Sector | Alabama; Berkeley, California; Connecticut; Kansas City, Missouri; Maryland; New Hampshire; New Jersey; North Carolina; Remote - California; Remote - Colorado; Remote - Illinois; Remote - Massachusetts; Remote - Missouri; Remote - New York; Remote - Pennsylvania; Remote - Virginia; Remote - Washington; Remote - Washington D.C.; Rhode Island; San Diego, California; South Carolina | Nov 5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8823788002) · [Find the hiring manager](https://warmada.com/job/databricks-sr-forward-deployed-engineer-public-sector-9ef012c2-7fa7-4dc4-b201-a43dfc25a65d?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Mission Operations Engineer (Platform) | San Diego, CA | Nov 3 | [Apply](https://jobs.ashbyhq.com/saronic/f73913ec-a836-4160-b84b-7634f55988cc) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-mission-operations-engineer-platform-1e935aa2-147c-4eb6-9cab-019e0aa8736e?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
+
+## Hardware Engineering (1)
+
+| Company | Role | Location | Posted | Links |
+| --- | --- | --- | --- | --- |
+| Tempo | R&amp;D Test Engineering Intern (SoFuel) | San Diego | Nov 14 | [Apply](https://tempoenergy.com/careers/open-roles/?gh_jid=4507804009) · [Find the hiring manager](https://warmada.com/job/tempo-r-and-d-test-engineering-intern-sofuel-03a6a0c3-a473-497e-8de5-27e55b098055?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
 ## Data (1)
 
@@ -64,12 +70,12 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| Tempo | Executive Assistant &amp; Office Manager | San Diego | Nov 14 | [Apply](https://tempoenergy.com/careers/open-roles/?gh_jid=4507795009) · [Find the hiring manager](https://warmada.com/job/tempo-executive-assistant-and-office-manager-a626af9f-16f1-4f4b-8393-ccc80d4c3f26?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Avantus](https://warmada.com/companies/avantus?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Manager or Sr. Manager, Optimization Engineering | (Hybrid) San Diego, CA, USA | Nov 13 | [Apply](https://avantus.com/careers?gh_jid=8937098002) · [Find the hiring manager](https://warmada.com/job/avantus-manager-or-sr-manager-optimization-engineering-a71656f3-2195-4fd1-ab36-94176ed3ea1a?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Avantus](https://warmada.com/companies/avantus?utm_source=github&utm_medium=list&utm_campaign=san-diego) | IT Specialist, Information Technology | (Onsite) San Diego, CA, USA | Nov 13 | [Apply](https://avantus.com/careers?gh_jid=8940029002) · [Find the hiring manager](https://warmada.com/job/avantus-it-specialist-information-technology-e3176fa8-b829-42ee-adcc-6efb34129100?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Manager, Client Platform Engineering | Los Angeles; Phoenix; San Diego; Seattle | Nov 13 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8384766) · [Find the hiring manager](https://warmada.com/job/mongodb-manager-client-platform-engineering-fed58450-ff4e-4162-8dbd-604a2c0e1396?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Part Time Brand Ambassador | San Diego, CA | Nov 12 | [Apply](https://lucidmotors.com/careers/search/5293910007?gh_jid=5293910007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-part-time-brand-ambassador-6619fb53-eeb0-47f0-be5e-ef429c72d4de?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Aya Healthcare](https://warmada.com/companies/aya-healthcare?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sr. Conference Manager | San Diego, CA | Nov 11 | [Apply](https://www.ayahealthcare.com/corporate-careers/jobs/8380908?gh_jid=8380908) · [Find the hiring manager](https://warmada.com/job/aya-healthcare-sr-conference-manager-b382a054-f40f-42ae-8bd4-755a2d7457c0?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
-| [knownwell](https://warmada.com/companies/knownwell?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Clinical Research Coordinator | La Jolla, San Diego, CA | Nov 10 | [Apply](https://jobs.ashbyhq.com/knownwell/62be6503-31c5-4872-81da-d63487364dc8) · [Find the hiring manager](https://warmada.com/job/knownwell-clinical-research-coordinator-b4c62a0a-7af7-4385-85c5-f72764eb7f32?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Olympus Property](https://warmada.com/companies/olympus-property?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Assistant Manager - Olympus Corsair | San Diego, CA | Nov 6 | [Apply](https://job-boards.greenhouse.io/olympusproperty/jobs/8198275003) · [Find the hiring manager](https://warmada.com/job/olympus-property-assistant-manager-olympus-corsair-c7b77ede-b6cd-4d31-b989-8568893b8cd9?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Mejuri](https://warmada.com/companies/mejuri?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Stylist (Retail) (Part-time) | Westfield UTC, San Diego | Nov 6 | [Apply](https://job-boards.greenhouse.io/mejuri/jobs/4727971006) · [Find the hiring manager](https://warmada.com/job/mejuri-stylist-retail-part-time-4fb5fc96-1820-4d11-8299-20c167b07021?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Iambic Therapeutics, Inc](https://warmada.com/companies/iambic-therapeutics-inc?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sr Manager, Enterprise Business Systems | San Diego HQ | Nov 6 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/94a82b39-cf0f-4543-b033-ae805af98761) · [Find the hiring manager](https://warmada.com/job/iambic-therapeutics-inc-sr-manager-enterprise-business-systems-7857d1a3-32c5-4364-9b6a-ac5d98377af5?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
