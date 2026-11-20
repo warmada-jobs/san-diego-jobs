@@ -1,21 +1,20 @@
 # San Diego Jobs
 
-Open roles in San Diego: 32 roles at 17 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-19.
+Open roles in San Diego: 29 roles at 18 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-20.
 
-All 32 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
+All 29 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
 
-**By role:** Software Engineering (2) · Hardware Engineering (1) · Data (1) · Marketing (1) · Sales (5) · Customer Success (1) · Finance (1) · HR & Recruiting (1) · Other (19)
+**By role:** Software Engineering (1) · Hardware Engineering (1) · Sales (5) · Customer Success (1) · Finance (1) · Other (20)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names San Diego. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (2)
+## Software Engineering (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Iambic Therapeutics, Inc](https://warmada.com/companies/iambic-therapeutics-inc?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sr. Software Engineer, Lab Automation | San Diego HQ | Nov 18 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/b0cc562c-4890-4a4f-96de-6a23ded5aad0) · [Find the hiring manager](https://warmada.com/job/iambic-therapeutics-inc-sr-software-engineer-lab-automation-8d02c3db-b05e-4298-a27f-a2a2da556921?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
-| [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sr. Forward Deployed Engineer - Public Sector | Alabama; Berkeley, California; Connecticut; Kansas City, Missouri; Maryland; New Hampshire; New Jersey; North Carolina; Remote - California; Remote - Colorado; Remote - Illinois; Remote - Massachusetts; Remote - Missouri; Remote - New York; Remote - Pennsylvania; Remote - Virginia; Remote - Washington; Remote - Washington D.C.; Rhode Island; San Diego, California; South Carolina | Nov 5 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8823788002) · [Find the hiring manager](https://warmada.com/job/databricks-sr-forward-deployed-engineer-public-sector-9ef012c2-7fa7-4dc4-b201-a43dfc25a65d?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
 ## Hardware Engineering (1)
 
@@ -23,23 +22,11 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | Tempo | R&amp;D Test Engineering Intern (SoFuel) | San Diego | Nov 14 | [Apply](https://tempoenergy.com/careers/open-roles/?gh_jid=4507804009) · [Find the hiring manager](https://warmada.com/job/tempo-r-and-d-test-engineering-intern-sofuel-03a6a0c3-a473-497e-8de5-27e55b098055?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
-## Data (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| [Iambic Therapeutics, Inc](https://warmada.com/companies/iambic-therapeutics-inc?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Research Scientist II/Senior Research Scientist, Medicinal Chemistry | San Diego HQ | Nov 6 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/517a437c-9810-402e-800b-4b593f3b3970) · [Find the hiring manager](https://warmada.com/job/iambic-therapeutics-inc-research-scientist-ii-senior-research-scientist-medicina-37bc5a4a-0ff8-4878-9a0f-ce871f45401e?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
-
-## Marketing (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| [Aya Healthcare](https://warmada.com/companies/aya-healthcare?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Solutions Marketing Manager | San Diego, CA | Nov 5 | [Apply](https://www.ayahealthcare.com/corporate-careers/jobs/8357625?gh_jid=8357625) · [Find the hiring manager](https://warmada.com/job/aya-healthcare-solutions-marketing-manager-fca7b265-d8be-477c-984e-7bcb8fd37d82?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
-
 ## Sales (5)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [New Relic](https://warmada.com/companies/new-relic?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Senior Account Executive - Public Sector (SLED West) | Los Angeles, California, USA; Portland, Oregon, USA; Sacramento, California, USA; San Diego, California, USA; San Francisco, California, USA; Seattle, Washington, USA | Nov 14 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5479131008) · [Find the hiring manager](https://warmada.com/job/new-relic-senior-account-executive-public-sector-sled-west-81f2e014-8b23-42ab-a4ea-09855a221c7b?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
+| [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Dell Territory Sales Representative | San Diego, CA | Nov 20 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/San-Diego-CA/Dell-Territory-Sales-Representative_REQ_117098) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-dell-territory-sales-representative-c61c9c41-c615-4724-8879-751fdfce6acb?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [New Relic](https://warmada.com/companies/new-relic?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Account Manager - Renewals (West) | Denver, Colorado, USA; Las Vegas, Nevada, USA; Los Angeles, California, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; San Diego, California, USA; San Francisco, California, USA; Seattle, Washington, USA | Nov 13 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5480591008) · [Find the hiring manager](https://warmada.com/job/new-relic-account-manager-renewals-west-b9e77c89-d328-4274-b8bc-a1fe28038f83?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Access Destination Services](https://warmada.com/companies/access-destination-services?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sales Associate | San Diego | Nov 13 | [Apply](https://jobs.ashbyhq.com/access/df78fbeb-e82b-4d5e-afd3-874e7ebd2914) · [Find the hiring manager](https://warmada.com/job/access-destination-services-sales-associate-3abc5104-0cef-4acc-bb11-1e77c4709e01?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Scale AI](https://warmada.com/companies/scale-ai?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Account Executive, Navy | San Diego, CA; Washington, DC | Nov 12 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4753798005) · [Find the hiring manager](https://warmada.com/job/scale-ai-account-executive-navy-a7a7c576-3eae-4975-a421-9f2326908bc6?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
@@ -57,16 +44,12 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Mercer Advisors](https://warmada.com/companies/mercer-advisors?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Tax Manager (San Diego) | San Diego | Nov 9 | [Apply](https://job-boards.greenhouse.io/merceradvisors/jobs/5473275008) · [Find the hiring manager](https://warmada.com/job/mercer-advisors-tax-manager-san-diego-0e596686-421a-4ebb-8242-80400a0e39cf?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
-## HR & Recruiting (1)
+## Other (20)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [Aya Healthcare](https://warmada.com/companies/aya-healthcare?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Talent and Performance Manager | San Diego, CA | Nov 5 | [Apply](https://www.ayahealthcare.com/corporate-careers/jobs/8357183?gh_jid=8357183) · [Find the hiring manager](https://warmada.com/job/aya-healthcare-talent-and-performance-manager-203007fd-5430-4c35-94e6-eefd42046d9f?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
-
-## Other (19)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
+| [Ōura](https://warmada.com/companies/oura?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Senior Algorithm Scientist - New Core Sensing | Hybrid - San Diego, California; Hybrid - San Francisco, California | Nov 19 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4511219009) · [Find the hiring manager](https://warmada.com/job/oura-senior-algorithm-scientist-new-core-sensing-6f499cdf-726a-4f0d-8c33-4650d5e59255?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
+| [Headlands Research](https://warmada.com/companies/headlands-research?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Medical Assistant | San Diego, California | Nov 19 | [Apply](https://job-boards.greenhouse.io/headlandsresearch/jobs/4514412009) · [Find the hiring manager](https://warmada.com/job/headlands-research-medical-assistant-2bd74310-6dd7-4dbc-b39f-35da1cd8476a?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Ōura](https://warmada.com/companies/oura?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Senior Algorithm Scientist - New Health Sensing | Hybrid - San Diego, California; Hybrid - San Francisco, California | Nov 18 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4511174009) · [Find the hiring manager](https://warmada.com/job/oura-senior-algorithm-scientist-new-health-sensing-b3898f46-634e-4697-b6e2-a0df9e10e75a?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Mercer Advisors](https://warmada.com/companies/mercer-advisors?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Senior Wealth Advisor (San Diego, CA) | San Diego | Nov 17 | [Apply](https://job-boards.greenhouse.io/merceradvisors/jobs/5289995008) · [Find the hiring manager](https://warmada.com/job/mercer-advisors-senior-wealth-advisor-san-diego-ca-676f5c33-da6f-40d7-bc4c-986969e0bc9b?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [sweetgreen](https://warmada.com/companies/sweetgreen?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Restaurant General Manager | San Diego, CA | Nov 16 | [Apply](https://careers.sweetgreen.com/jobs/8375313?gh_jid=8375313) · [Find the hiring manager](https://warmada.com/job/sweetgreen-restaurant-general-manager-f66c07b1-43d9-4024-a4ea-42c09a085b18?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
@@ -85,4 +68,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Aya Healthcare](https://warmada.com/companies/aya-healthcare?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sr. Conference Manager | San Diego, CA | Nov 11 | [Apply](https://www.ayahealthcare.com/corporate-careers/jobs/8380908?gh_jid=8380908) · [Find the hiring manager](https://warmada.com/job/aya-healthcare-sr-conference-manager-b382a054-f40f-42ae-8bd4-755a2d7457c0?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Olympus Property](https://warmada.com/companies/olympus-property?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Assistant Manager - Olympus Corsair | San Diego, CA | Nov 6 | [Apply](https://job-boards.greenhouse.io/olympusproperty/jobs/8198275003) · [Find the hiring manager](https://warmada.com/job/olympus-property-assistant-manager-olympus-corsair-c7b77ede-b6cd-4d31-b989-8568893b8cd9?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Mejuri](https://warmada.com/companies/mejuri?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Stylist (Retail) (Part-time) | Westfield UTC, San Diego | Nov 6 | [Apply](https://job-boards.greenhouse.io/mejuri/jobs/4727971006) · [Find the hiring manager](https://warmada.com/job/mejuri-stylist-retail-part-time-4fb5fc96-1820-4d11-8299-20c167b07021?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
-| [Iambic Therapeutics, Inc](https://warmada.com/companies/iambic-therapeutics-inc?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sr Manager, Enterprise Business Systems | San Diego HQ | Nov 6 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/94a82b39-cf0f-4543-b033-ae805af98761) · [Find the hiring manager](https://warmada.com/job/iambic-therapeutics-inc-sr-manager-enterprise-business-systems-7857d1a3-32c5-4364-9b6a-ac5d98377af5?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
