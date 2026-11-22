@@ -1,10 +1,10 @@
 # San Diego Jobs
 
-Open roles in San Diego: 32 roles at 20 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-21.
+Open roles in San Diego: 32 roles at 20 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-22.
 
 All 32 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
 
-**By role:** Software Engineering (1) · Hardware Engineering (1) · Sales (8) · Customer Success (1) · Finance (1) · Other (20)
+**By role:** Software Engineering (1) · Sales (8) · Customer Success (1) · Finance (1) · Other (21)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names San Diego. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -15,12 +15,6 @@ A bad listing? Email hello@warmada.com with the link.
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [Iambic Therapeutics, Inc](https://warmada.com/companies/iambic-therapeutics-inc?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sr. Software Engineer, Lab Automation | San Diego HQ | Nov 18 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/b0cc562c-4890-4a4f-96de-6a23ded5aad0) · [Find the hiring manager](https://warmada.com/job/iambic-therapeutics-inc-sr-software-engineer-lab-automation-8d02c3db-b05e-4298-a27f-a2a2da556921?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
-
-## Hardware Engineering (1)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
-| Tempo | R&amp;D Test Engineering Intern (SoFuel) | San Diego | Nov 14 | [Apply](https://tempoenergy.com/careers/open-roles/?gh_jid=4507804009) · [Find the hiring manager](https://warmada.com/job/tempo-r-and-d-test-engineering-intern-sofuel-03a6a0c3-a473-497e-8de5-27e55b098055?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
 ## Sales (8)
 
@@ -47,10 +41,11 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Mercer Advisors](https://warmada.com/companies/mercer-advisors?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Tax Manager (San Diego) | San Diego | Nov 9 | [Apply](https://job-boards.greenhouse.io/merceradvisors/jobs/5473275008) · [Find the hiring manager](https://warmada.com/job/mercer-advisors-tax-manager-san-diego-0e596686-421a-4ebb-8242-80400a0e39cf?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
-## Other (20)
+## Other (21)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| Tempo | Project &amp; Commissioning Engineer | San Diego, CA | Nov 22 | [Apply](https://tempoenergy.com/careers/open-roles/?gh_jid=4517727009) · [Find the hiring manager](https://warmada.com/job/tempo-project-and-commissioning-engineer-6e7be8d0-6533-4b30-a5a8-832935defce0?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | Genesis Molecular AI | Scientist – Immunology and Inflammation | San Diego, CA | Nov 20 | [Apply](https://jobs.ashbyhq.com/genesis-molecular-ai/90e8c915-5f17-4557-ae8d-9ed49652d9a9) · [Find the hiring manager](https://warmada.com/job/genesis-molecular-ai-scientist-immunology-and-inflammation-34dc2932-5ba9-4600-85ae-90c8405e5e03?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Headlands Research](https://warmada.com/companies/headlands-research?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sub-Investigator, NP/PA | San Diego, California | Nov 20 | [Apply](https://job-boards.greenhouse.io/headlandsresearch/jobs/4516825009) · [Find the hiring manager](https://warmada.com/job/headlands-research-sub-investigator-np-pa-734f42cd-e656-47ae-8582-17a08cbdee4d?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Ōura](https://warmada.com/companies/oura?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Senior Algorithm Scientist - New Core Sensing | Hybrid - San Diego, California; Hybrid - San Francisco, California | Nov 19 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4511219009) · [Find the hiring manager](https://warmada.com/job/oura-senior-algorithm-scientist-new-core-sensing-6f499cdf-726a-4f0d-8c33-4650d5e59255?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
