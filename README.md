@@ -1,10 +1,10 @@
 # San Diego Jobs
 
-Open roles in San Diego: 32 roles at 20 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-22.
+Open roles in San Diego: 32 roles at 21 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-23.
 
 All 32 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
 
-**By role:** Software Engineering (1) · Sales (8) · Customer Success (1) · Finance (1) · Other (21)
+**By role:** Software Engineering (1) · Sales (8) · Customer Success (1) · Other (22)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names San Diego. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -35,16 +35,11 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Customer Success Manager | Los Angeles; Salt Lake City; San Diego | Nov 16 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8384442) · [Find the hiring manager](https://warmada.com/job/mongodb-customer-success-manager-9ac543af-937e-4ae3-a4a1-c3d9c5c8c30f?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
-## Finance (1)
+## Other (22)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [Mercer Advisors](https://warmada.com/companies/mercer-advisors?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Tax Manager (San Diego) | San Diego | Nov 9 | [Apply](https://job-boards.greenhouse.io/merceradvisors/jobs/5473275008) · [Find the hiring manager](https://warmada.com/job/mercer-advisors-tax-manager-san-diego-0e596686-421a-4ebb-8242-80400a0e39cf?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
-
-## Other (21)
-
-| Company | Role | Location | Posted | Links |
-| --- | --- | --- | --- | --- |
+| [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Director of Growth Innovation | San Diego, CA | Nov 23 | [Apply](https://jobs.ashbyhq.com/saronic/a3312344-2cb9-40c0-b9a7-724de2fa97ee) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-director-of-growth-innovation-bd6d8562-5c19-4256-9da6-56641fa775b5?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | Tempo | Project &amp; Commissioning Engineer | San Diego, CA | Nov 22 | [Apply](https://tempoenergy.com/careers/open-roles/?gh_jid=4517727009) · [Find the hiring manager](https://warmada.com/job/tempo-project-and-commissioning-engineer-6e7be8d0-6533-4b30-a5a8-832935defce0?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | Genesis Molecular AI | Scientist – Immunology and Inflammation | San Diego, CA | Nov 20 | [Apply](https://jobs.ashbyhq.com/genesis-molecular-ai/90e8c915-5f17-4557-ae8d-9ed49652d9a9) · [Find the hiring manager](https://warmada.com/job/genesis-molecular-ai-scientist-immunology-and-inflammation-34dc2932-5ba9-4600-85ae-90c8405e5e03?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Headlands Research](https://warmada.com/companies/headlands-research?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sub-Investigator, NP/PA | San Diego, California | Nov 20 | [Apply](https://job-boards.greenhouse.io/headlandsresearch/jobs/4516825009) · [Find the hiring manager](https://warmada.com/job/headlands-research-sub-investigator-np-pa-734f42cd-e656-47ae-8582-17a08cbdee4d?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
