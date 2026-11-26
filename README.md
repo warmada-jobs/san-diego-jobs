@@ -1,19 +1,20 @@
 # San Diego Jobs
 
-Open roles in San Diego: 42 roles at 22 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-25.
+Open roles in San Diego: 44 roles at 22 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=san-diego).** Last updated 2026-11-26.
 
-All 42 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
+All 44 are listed below. Browse the newest on [warmada.com/jobs/san-diego](https://warmada.com/jobs/san-diego?utm_source=github&utm_medium=list&utm_campaign=san-diego).
 
-**By role:** Software Engineering (1) · Sales (6) · Customer Success (1) · HR & Recruiting (1) · Other (33)
+**By role:** Software Engineering (2) · Sales (6) · Customer Success (1) · Operations (1) · HR & Recruiting (1) · Other (33)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names San Diego. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (1)
+## Software Engineering (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Mission Operations Engineer (Program) | San Diego, CA | Nov 25 | [Apply](https://jobs.ashbyhq.com/saronic/3e2a78e3-31a9-4a25-8aaa-00ca9b531927) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-mission-operations-engineer-program-8c65b3d0-c4d9-418b-92f1-cf2ceb7a407f?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Iambic Therapeutics, Inc](https://warmada.com/companies/iambic-therapeutics-inc?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sr. Software Engineer, Lab Automation | San Diego HQ | Nov 18 | [Apply](https://jobs.ashbyhq.com/iambic-therapeutics/b0cc562c-4890-4a4f-96de-6a23ded5aad0) · [Find the hiring manager](https://warmada.com/job/iambic-therapeutics-inc-sr-software-engineer-lab-automation-8d02c3db-b05e-4298-a27f-a2a2da556921?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
 ## Sales (6)
@@ -33,6 +34,12 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Customer Success Manager | Los Angeles; Salt Lake City; San Diego | Nov 16 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8384442) · [Find the hiring manager](https://warmada.com/job/mongodb-customer-success-manager-9ac543af-937e-4ae3-a4a1-c3d9c5c8c30f?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 
+## Operations (1)
+
+| Company | Role | Location | Posted | Links |
+| --- | --- | --- | --- | --- |
+| [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Mission Operations Specialist (Product) | San Diego, CA | Nov 25 | [Apply](https://jobs.ashbyhq.com/saronic/352e0463-e7a1-4238-b6ba-f1acd8a607b8) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-mission-operations-specialist-product-19b95245-4f25-4e80-b344-2a9f18d52b4a?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
+
 ## HR & Recruiting (1)
 
 | Company | Role | Location | Posted | Links |
@@ -43,6 +50,7 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Headlands Research](https://warmada.com/companies/headlands-research?utm_source=github&utm_medium=list&utm_campaign=san-diego) | PRN Registered Dietitian | San Diego, California | Nov 25 | [Apply](https://job-boards.greenhouse.io/headlandsresearch/jobs/4524171009) · [Find the hiring manager](https://warmada.com/job/headlands-research-prn-registered-dietitian-d5aadf4c-12de-4728-8c29-882c5d1a6642?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [New Relic](https://warmada.com/companies/new-relic?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Technical Success Manager II | Los Angeles, California, USA; Portland, Oregon, USA; San Diego, California, USA; San Francisco, California, USA; Seattle, Washington, USA | Nov 25 | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5493662008) · [Find the hiring manager](https://warmada.com/job/new-relic-technical-success-manager-ii-7d05c5d6-9c1b-4cce-96e9-086f7ba8c343?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | Griffis Residential | Leasing Consultant | San Diego, California, United States | Nov 24 | [Apply](https://griffisresidential.com/open-positions/?gh_jid=5494038008) · [Find the hiring manager](https://warmada.com/job/griffis-residential-leasing-consultant-1f51fbcd-43a4-48a1-8af7-c28cb07358f9?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Saronic Technologies](https://warmada.com/companies/saronic-technologies?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Technical Operator | San Diego, CA | Nov 24 | [Apply](https://jobs.ashbyhq.com/saronic/d01d4903-eef6-45f6-83b8-06b40abae2d5) · [Find the hiring manager](https://warmada.com/job/saronic-technologies-technical-operator-73e133bf-946b-4da5-ad9d-4959e9b64a9a?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
@@ -75,4 +83,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Manager, Client Platform Engineering | Los Angeles; Phoenix; San Diego; Seattle | Nov 13 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8384766) · [Find the hiring manager](https://warmada.com/job/mongodb-manager-client-platform-engineering-fed58450-ff4e-4162-8dbd-604a2c0e1396?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | Altos Labs | Director / Senior Director, Toxicology | San Francisco Bay Area, CA;San Diego, CA | Nov 12 | [Apply](https://job-boards.greenhouse.io/altoslabs/jobs/6260478004) · [Find the hiring manager](https://warmada.com/job/altos-labs-director-senior-director-toxicology-1ffdbf0b-3bb4-45cf-ba8f-adee38de8dee?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Part Time Brand Ambassador | San Diego, CA | Nov 12 | [Apply](https://lucidmotors.com/careers/search/5293910007?gh_jid=5293910007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-part-time-brand-ambassador-6619fb53-eeb0-47f0-be5e-ef429c72d4de?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
-| [Aya Healthcare](https://warmada.com/companies/aya-healthcare?utm_source=github&utm_medium=list&utm_campaign=san-diego) | Sr. Conference Manager | San Diego, CA | Nov 11 | [Apply](https://www.ayahealthcare.com/corporate-careers/jobs/8380908?gh_jid=8380908) · [Find the hiring manager](https://warmada.com/job/aya-healthcare-sr-conference-manager-b382a054-f40f-42ae-8bd4-755a2d7457c0?utm_source=github&utm_medium=list&utm_campaign=san-diego) |
